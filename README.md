@@ -2,22 +2,20 @@
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+# Initial Upload Note (April 19, 2022)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- This project is based on this video: https://www.youtube.com/watch?v=HYv55DhgTuA&t=9121s 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- Project is followed step-by-step
 
-## How to use
+- Some mental notes after completing the tutorial:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+This project helped me get a further grasp on Next.js and how it can be advantageous to learn for aspiring React developers. Furthermore, this was the most complicated project that I have tackled to far and it was nice to see how props get passed between components throughout the project.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
+This was also the first time that I used Tailwind CSS and it was interesting to see how it contrasted to other react component libraries like MUI, Chakra and Bootstrap. I think I will try using it more, as I often times had issues using those mentioned libraries, but that may just be due to my inexperience.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+This project is not complete, as I did not leave many comments and did not do the featuredPosts part of the video.
+
+# Plans
+
+- At some point in the future, I would like to go through the code again and leave detailed comments throughout the project that can anyone can reference to see the thought process behind each block of code.
